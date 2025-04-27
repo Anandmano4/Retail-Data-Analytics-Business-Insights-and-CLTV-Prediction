@@ -76,6 +76,7 @@ These insights can guide strategic decisions for revenue growth and operational 
 
 
 
+Project 2
 Customer Lifetime Value (CLTV) Prediction
 
 Overview
